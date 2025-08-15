@@ -257,7 +257,7 @@ User - {}"""
     
 <blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
-! Cut this and Type here Your own plane for exl
+! Find the Plan That’s Right for You
 
 5 ʀᴜᴘᴇᴇ ᴘᴇʀ ᴅᴀʏ 👻
 99 ʀᴜᴘᴇᴇs ғᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ 😚
@@ -372,6 +372,7 @@ developer : Rk_hero
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Rakesh0001_rk">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Rakesh0001_rk">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
