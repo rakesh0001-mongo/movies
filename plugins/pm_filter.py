@@ -1666,3 +1666,4 @@ async def advantage_spell_chok(message):
     except:
         pass
 
+
