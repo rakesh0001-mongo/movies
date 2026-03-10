@@ -179,7 +179,12 @@ async def next_page(bot, query):
     settings = await get_settings(query.message.chat.id)
     reqnxt  = query.from_user.id if query.from_user else 0
     temp.CHAT[query.from_user.id] = query.message.chat.id
-    #del_msg = f"\n\n<b>⚠️ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀꜰᴛᴇʀ <code>{get_readable_time(DELETE_TIME)}</code> ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs</b>" if settings["auto_delete"] else ''
+    #del_msg = f"\n\n<b>✍️🏻 This video file will be deleted in <code>{get_readable_time(DELETE_TIME)}</code> to avoid copyright issues Please save this video in your Saved Messages or forward it to your friends and download it from there before it gets deleted.
+
+✍️🏻 महत्वपूर्ण सूचना
+
+यह वीडियो फाइल copyright issue से बचने के लिए 3 मिनट में डिलीट कर दी जाएगी।
+कृपया इस वीडियो को Saved Messages में सेव कर लें या अपने दोस्तों को Forward करके वहां से डाउनलोड कर लें, ताकि बाद में आसानी से देख सकें।</b>" if settings["auto_delete"] else ''
     links = ""
     if settings["link"]:
         btn = []
@@ -1660,3 +1665,4 @@ async def advantage_spell_chok(message):
         await message.delete()
     except:
         pass
+
